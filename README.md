@@ -1,0 +1,1 @@
+The following code is a python implementation of a number guessing game. Users can guess a number between 1 and 100 as many times as they would like. After incorrect guesses, the user should input 'y' or 'n' to play again or end the game.
